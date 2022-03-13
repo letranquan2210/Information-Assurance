@@ -2,7 +2,7 @@
 Link Rules for Snort:
 http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node32.html?fbclid=IwAR1ikPVJqdz8-h4NMdaDjnea2nHFKi6Uk5cwp2ScLuHzOUtIkQ3hFiIK9aQ#SECTION00457000000000000000
 
-**Important** need centOS for lab: file pcap, rules IDS Snort
+**Important** need centOS for lab: file pcap, rules IDS Snort, Wireshark
 link centOS:
 https://sourceforge.net/projects/osboxes/
 
